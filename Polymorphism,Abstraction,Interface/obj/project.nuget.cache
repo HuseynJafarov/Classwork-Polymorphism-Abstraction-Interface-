@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jxrVigBp0QBRAicwpsejCsNirLNaAcizDwVPS62ET6KiWLRZxuUKs7YQKQwdaeSHmoUpOd7wUbbUY5vUbLk2/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\C#\\CodeClassWork\\Polymorphism,Abstraction,Interface\\Polymorphism,Abstraction,Interface\\Polymorphism,Abstraction,Interface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
